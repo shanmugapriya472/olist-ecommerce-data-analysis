@@ -1,0 +1,47 @@
+Olist E-Commerce Data Analysis
+
+Project Overview
+
+This project explores the Brazilian Olist e-commerce dataset to identify sales trends, product category performance, customer feedback, payment preferences, and order delivery patterns.
+
+Objectives
+
+- Analyze monthly order trends.
+- Identify top-performing product categories by revenue.
+- Examine order statuses and fulfillment performance.
+- Understand customer review score distributions.
+- Analyze payment methods and payment values.
+- Explore order delivery times.
+
+Tools and Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
+
+Key Business Insights
+
+1. Monthly orders: November 2017 recorded the highest order count in the analyzed data, with 7,544 orders.
+2. Product categories: Beauty and health products generated the highest item revenue among the categories analyzed.
+3. Order fulfillment: Most recorded orders had a delivered status, while cancellations and unavailable orders represent areas for further investigation.
+4. Customer reviews: Five-star reviews were the most frequent rating in the dataset.
+5. Payment methods: Credit cards accounted for the largest total payment value among the payment methods analyzed.
+
+Visualizations
+
+The project dashboard contains six visualizations covering monthly orders, category revenue, order status, review scores, payment methods, and delivery time.
+
+Project Files
+
+- "olist_business_dashboard.png" — Six-chart dashboard.
+- ".ipynb" notebook — Python analysis and visualizations.
+
+Dataset
+
+The analysis uses the Olist Brazilian E-Commerce Public Dataset. Dataset source: "Kaggle — Brazilian E-Commerce Public Dataset by Olist" (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+
+Conclusion
+
+This analysis demonstrates how e-commerce data can be used to identify business trends and generate insights that support decisions about sales, customer experience, payments, and order fulfillment.
