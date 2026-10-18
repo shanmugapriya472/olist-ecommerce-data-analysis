@@ -1,0 +1,34 @@
+
+OLIST E-COMMERCE DATA ANALYSIS
+Business Insights Report
+
+1. Monthly Order Trend
+November 2017 recorded 7,544 orders, the highest monthly order count
+in the analysis. The business should review seasonal demand patterns
+and plan inventory and customer support capacity ahead of peak periods.
+
+2. Top Product Categories
+Beauty & Health generated R$1,258,681.34 in item revenue, followed
+by Watches & Gifts at R$1,205,005.68. The business should evaluate
+stock availability and targeted promotions for these strong categories.
+
+3. Order Fulfilment
+Of 99,441 orders, 96,478 were marked delivered. The business should
+investigate cancelled, unavailable and delayed orders to identify
+opportunities to improve fulfilment.
+
+4. Customer Reviews
+The most common review score was 5, with 57,328 reviews, while
+11,424 reviews received a score of 1. The business should study
+low-scoring reviews to identify recurring customer problems.
+
+5. Regional Sales
+Regional sales differ across customer states. The business should
+use the regional sales chart to identify high-performing markets
+and investigate lower-performing regions before allocating promotions.
+
+Most Surprising Finding
+The dataset recorded 99,441 orders, with 96,478 marked as delivered.
+Despite the high delivery count, the remaining order statuses show
+why monitoring cancellations, unavailable orders and fulfilment
+performance is important.

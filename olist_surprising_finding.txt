@@ -1,0 +1,6 @@
+Most Surprising Finding
+
+The dataset contains 99,441 orders, of which 96,478 were marked
+as delivered. However, order status alone does not explain the
+customer experience. Reviewing low-rated orders alongside delivery
+performance could help identify service issues and improvement areas.
